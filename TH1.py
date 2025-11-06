@@ -1,0 +1,1 @@
+print('PHƯƠNG ĐẲNG CẤP')
